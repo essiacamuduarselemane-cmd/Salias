@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('html8.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+header {
+  background-color: rgba(52, 152, 219, 0.7);
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+.reservas {
+  text-shadow: 0px 0px 20px #000;
+}
+
+
+
+header h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+nav {
+  background-color: rgba(44, 62, 80, 0.7);
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  color: 000f;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #ccc;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+main p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #3498db;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: rgba(240, 240, 240, 0.8); /* fundo cinza transparente */
+}
+
+td {
+  background-color: rgba(255, 255, 255, 0.8); /* fundo branco transparente */
+}
+
+a:hover {
+  color: #2c3e50;
+}
+
+footer {
+  background-color: rgba(52, 152, 219, 0.7);
+  color: #fff;
+  padding: 10px;
+  text-align: center;align-items: 
+  clear: both;}

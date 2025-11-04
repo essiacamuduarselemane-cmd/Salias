@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Gastronomia Mocambicana - Gastronomia Moçambicana</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>SABORES DA NOSSA TERRA</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html" title="Página principal">Página principal</a></li>
+      <li><a href="Menu e reserva.html" title="Menu e reserva">Menu e reserva</a></li>
+      <li><a href="Sobre nós.html" title="Nossos serviços">Nossos serviços</a></li>
+      <li><a href="Elementos do grupo..html" title="Elementos do grupo">Elementos do grupo</a></li>
+    </ul>
+  </nav>
+  <main>
+    <p>Nós somos a Gastronomia moçambicana, um restaurante especializado em comida tradicional deliciosa e fresca. Temos uma equipe composta por chefs experientes e dedicados a fornecer o melhor da Gastronomia Moçambicana.</p>
+    <a href="Menu e reserva.html" title="Próximo">Próximo</a>
+  </main>
+</body>
+</html>

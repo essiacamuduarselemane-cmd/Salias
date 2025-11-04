@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <table>
+</head>
+   <h1>Elementos do grupo</h1>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <tr>
+      <th>Nome</th>
+      <th>Número</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ESSIACA MUDUAR</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>Leonardo Momade</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>Chapas Alua</td>
+      <td>12</td>
+    </tr>
+    <tr>
+    <td>Zinha Baptista</td>
+      <td>64</td>
+        </tr>
+          <tr>
+            <td>Nunes Tapite</td>
+            <td>48</td>
+          </tr>
+          <td>Isabel Jose Avelino </td>
+          <td>27</td>
+          </tr>
+      <td>Adelia Momade xavier</td>
+      <td>2</td>
+    </tr>
+   <tr>
+     <td>LEONARDO MOMADE</td>
+     <td>35</td>
+   </tr>
+   <tr>
+     <td>Ide Zacarias Jose Ide</td>
+     <td>23</td>
+   </tr>
+<tr>
+  <td>Nuca Alperdo Jedo</td>
+  <td>47</td>
+</tr>
+   <tr>
+     <td>Zena Nico Luciano</td>
+     <td>63</td>
+   </tr>
+   <tr>
+     <td>MATEUS SUMAILA SELEMANE</td>
+     <td>40</td>
+   </tr>
+   <tr>
+     <td>Deolinda Alves Dias</td>
+     <td>14</td>
+   </tr>
+<tr>
+ <td> Decio do Rosario</td>
+ <td>67</td>
+</td>
+<tr>
+ <td> Sofia Carlos</td>
+ <td>55</td>
+</tr>
+<tr>
+ <td>Dionisio Paulino</td>
+ <td>15</td> 
+</tr>
+<tr>
+ <td>Issofo chicola</td>
+ <td>28</td>
+</td>
+<tr>
+ <td>MUSSA ASSANE</td>
+ <td>45</td>
+ <tr>
+  <td>Momade Daudo Momade</td>
+  <td>43</td>
+ </tr>
+ <tr>
+  <td>Elsa yahaya</td>
+  <td>17</td>
+ </tr>
+  </tbody>
+</table>
+  <a href="index.html">pagina principal</a>
+    <main/>
+    <body/>
+      <html>
+    </head>

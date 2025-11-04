@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+  <title>Reserva!</title>
+</head>
+<body>
+  <header>
+    <h1 class="reservas"> Menu principal</h1>
+  </header>
+  <table border="1">
+    <tr>
+      <th>Prato</th>
+      <th>Descricao</th>
+      <th>preco</th>
+    </tr>
+    <tr>
+      <td>Matapa</td>
+      <td>Folhas de mantioca com coco e calto</td>
+      <td>150MT</td>
+    </tr>
+    <tr>
+      <td>matapa de peixe</td>
+      <td>folhas de mantioca com peixe</td>
+      <td>200MT</td>
+    </tr>
+    <tr>
+      <td>Feijao Mocambicana</td>
+      <td>feijao preto com carne de porco e linguica</td>
+      <td>100MT</td>
+    </tr>
+    <tr>
+      <td>fava</td>
+      <td>carili de fava na preparacao tepende do gosto de alguem</td>
+      <td>50MT</td>
+    </tr>
+    <tr>
+      <td>matapa de peixe</td>
+      <td>folhas de mantioca com peixe</td>
+      <td>900MT</td>
+    </tr>
+    <tr>
+      <td>Feijao Mocambicana</td>
+      <td>feijao preto com carne de porco e linguica</td>
+      <td>160MT</td>
+    </tr>
+    <tr>
+      <td>Matapa</td>
+      <td>Folhas de mantioca com coco e calto</td>
+      <td>100MT</td>
+    </tr>
+    <tr>
+      <td>matapa de peixe</td>
+      <td>folhas de mantioca com peixe</td>
+      <td>120MT</td>
+    </tr>
+    <tr>
+      <td>Rato do mado</td>
+      <td>carne de rato do mado </td>
+      <td>250MT</td>
+    </tr>
+    <tr>
+      <td>folhas de padada-doce</td>
+      <td>Folhas de padada-doce com agua,manga vertene agua</td>
+      <td>100MT</td>
+    </tr>
+    <tr>
+      <td>peixe thococado</td>
+      <td>peixe com agua e manga verte</td>
+      <td>280MT</td>
+    </tr>
+    <tr>
+      <td>pri-pire</td>
+      <td>frango com pimenda e limao</td>
+      <td>500MT</td>
+    </tr>
+    <tr>
+      <td>xima</td>
+      <td>papa de milho tradicional</td>
+      <td>50MT</td>
+    </tr>
+    <tr>
+      <td>xima preta</td>
+      <td>farinha de mantioca</td>
+      <td>30MT</td>
+    </tr>
+  </table>
+  <h1> Reserva </h1>
+  <form id="reserva-form">
+    <label for="nome" class="label-reserva">Nome:</label>
+    <input type="text" class="label-reserva" name="nome"><br><br>
+    <label for="numero-de-pessoas" class="label-reserva">Numero de pessoas:</label>
+    <input type="number" id="numero-de-pessoas" name="numero-de-pessoas"><br><br>
+    <label for="data-reserva" class="label-reserva">Data da reserva:</label>
+    <input type="date" id="data-reserva" name="data-reserva"><br><br>
+    <label for="lugar-da-refeicao" class="label-reserva">Lugar da refeicao:</label>
+    <select id="lugar-da-refeicao" name="lugar-da-refeicao">
+      <option value="Um lugar simples">Um lugar simples</option>
+      <option value="Obiservando a cidade">Obiservando a cidade</option>
+      <option value="Perto da janela">perto da janela</option>
+    </select><br><br>
+    <button type="submit">Reservar</button>
+  </form>
+  <a href="Sobre nós.html">proximo</a>
+</body>
+</html>
